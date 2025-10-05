@@ -18,11 +18,13 @@ API data wilayah Indonesia (Provinsi, Kabupaten/Kota, Kecamatan, dan Kelurahan/D
 ## 📖 API Endpoints
 
 ### 1. Get All Provinces
+
 ```
 GET /api/provinces.json
 ```
 
 **Response:**
+
 ```json
 [
   {
@@ -37,6 +39,7 @@ GET /api/provinces.json
 ```
 
 ### 2. Get Province Detail with Regencies
+
 ```
 GET /api/provinces/{province_id}.json
 ```
@@ -44,6 +47,7 @@ GET /api/provinces/{province_id}.json
 **Example:** `/api/provinces/11.json`
 
 **Response:**
+
 ```json
 {
   "id": "11",
@@ -59,11 +63,13 @@ GET /api/provinces/{province_id}.json
 ```
 
 ### 3. Get All Regencies
+
 ```
 GET /api/regencies.json
 ```
 
 **Response:**
+
 ```json
 [
   {
@@ -75,6 +81,7 @@ GET /api/regencies.json
 ```
 
 ### 4. Get Regency Detail with Districts
+
 ```
 GET /api/regencies/{regency_id}.json
 ```
@@ -82,6 +89,7 @@ GET /api/regencies/{regency_id}.json
 **Example:** `/api/regencies/1101.json`
 
 **Response:**
+
 ```json
 {
   "id": "1101",
@@ -98,11 +106,13 @@ GET /api/regencies/{regency_id}.json
 ```
 
 ### 5. Get All Districts
+
 ```
 GET /api/districts.json
 ```
 
 ### 6. Get District Detail with Villages
+
 ```
 GET /api/districts/{district_id}.json
 ```
@@ -110,6 +120,7 @@ GET /api/districts/{district_id}.json
 **Example:** `/api/districts/110101.json`
 
 **Response:**
+
 ```json
 {
   "id": "110101",
@@ -126,6 +137,7 @@ GET /api/districts/{district_id}.json
 ```
 
 ### 7. Get All Villages
+
 ```
 GET /api/villages.json
 ```
@@ -133,19 +145,23 @@ GET /api/villages.json
 ## 💻 Usage Examples
 
 ### JavaScript (Fetch)
+
 ```javascript
 // Get all provinces
-fetch('https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json')
-  .then(response => response.json())
-  .then(data => console.log(data));
+fetch("https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json")
+  .then((response) => response.json())
+  .then((data) => console.log(data));
 
 // Get specific province with regencies
-fetch('https://yourusername.github.io/api-wilayah-indonesia/api/provinces/11.json')
-  .then(response => response.json())
-  .then(data => console.log(data));
+fetch(
+  "https://yourusername.github.io/api-wilayah-indonesia/api/provinces/11.json"
+)
+  .then((response) => response.json())
+  .then((data) => console.log(data));
 ```
 
 ### PHP (cURL)
+
 ```php
 <?php
 $url = "https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json";
@@ -160,6 +176,7 @@ print_r($data);
 ```
 
 ### Python (Requests)
+
 ```python
 import requests
 
@@ -169,19 +186,25 @@ print(data)
 ```
 
 ### jQuery
+
 ```javascript
-$.getJSON('https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json', function(data) {
-  console.log(data);
-});
+$.getJSON(
+  "https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json",
+  function (data) {
+    console.log(data);
+  }
+);
 ```
 
 ## 🛠️ Development
 
 ### Prerequisites
+
 - Node.js (v14+)
 - npm
 
 ### Installation
+
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/api-wilayah-indonesia.git
@@ -198,6 +221,7 @@ npm run serve
 ```
 
 ### Project Structure
+
 ```
 api-wilayah-indonesia/
 ├── data/                  # CSV source files
@@ -221,29 +245,6 @@ api-wilayah-indonesia/
 ## 📝 Data Source
 
 Data wilayah Indonesia bersumber dari:
+
 - Badan Pusat Statistik (BPS)
 - Kementerian Dalam Negeri (Kemendagri)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/api-wilayah-indonesia](https://github.com/yourusername/api-wilayah-indonesia)
