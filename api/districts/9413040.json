@@ -1,0 +1,22 @@
+{
+  "id": "9413040",
+  "regency_id": "9413",
+  "name": "KOUH",
+  "villages": [
+    {
+      "id": "9413040003",
+      "district_id": "9413040",
+      "name": "JAIR"
+    },
+    {
+      "id": "9413040004",
+      "district_id": "9413040",
+      "name": "MANDOBO"
+    },
+    {
+      "id": "9413040005",
+      "district_id": "9413040",
+      "name": "KOUH"
+    }
+  ]
+}

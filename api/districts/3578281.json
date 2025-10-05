@@ -1,0 +1,27 @@
+{
+  "id": "3578281",
+  "regency_id": "3578",
+  "name": "PAKAL",
+  "villages": [
+    {
+      "id": "3578281001",
+      "district_id": "3578281",
+      "name": "BABAT JERAWAT"
+    },
+    {
+      "id": "3578281002",
+      "district_id": "3578281",
+      "name": "PAKAL"
+    },
+    {
+      "id": "3578281003",
+      "district_id": "3578281",
+      "name": "BENOWO"
+    },
+    {
+      "id": "3578281004",
+      "district_id": "3578281",
+      "name": "SUMBERREJO"
+    }
+  ]
+}

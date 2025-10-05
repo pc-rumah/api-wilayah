@@ -1,0 +1,37 @@
+{
+  "id": "7103062",
+  "regency_id": "7103",
+  "name": "TABUKAN SELATAN TENGGARA",
+  "villages": [
+    {
+      "id": "7103062001",
+      "district_id": "7103062",
+      "name": "PINTARENG"
+    },
+    {
+      "id": "7103062002",
+      "district_id": "7103062",
+      "name": "BASAUH"
+    },
+    {
+      "id": "7103062003",
+      "district_id": "7103062",
+      "name": "TUMALEDE"
+    },
+    {
+      "id": "7103062004",
+      "district_id": "7103062",
+      "name": "DALOKAWENG"
+    },
+    {
+      "id": "7103062005",
+      "district_id": "7103062",
+      "name": "SAMPAKANG"
+    },
+    {
+      "id": "7103062006",
+      "district_id": "7103062",
+      "name": "MALISADE"
+    }
+  ]
+}

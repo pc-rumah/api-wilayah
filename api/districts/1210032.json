@@ -1,0 +1,27 @@
+{
+  "id": "1210032",
+  "regency_id": "1210",
+  "name": "SITINJO",
+  "villages": [
+    {
+      "id": "1210032001",
+      "district_id": "1210032",
+      "name": "SITINJO"
+    },
+    {
+      "id": "1210032003",
+      "district_id": "1210032",
+      "name": "PANJI DABUTAR"
+    },
+    {
+      "id": "1210032012",
+      "district_id": "1210032",
+      "name": "SITINJO I"
+    },
+    {
+      "id": "1210032013",
+      "district_id": "1210032",
+      "name": "SITINJO II"
+    }
+  ]
+}

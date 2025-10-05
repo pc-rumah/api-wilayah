@@ -1,0 +1,12 @@
+{
+  "id": "7104081",
+  "regency_id": "7104",
+  "name": "MIANGAS",
+  "villages": [
+    {
+      "id": "7104081001",
+      "district_id": "7104081",
+      "name": "MIANGAS"
+    }
+  ]
+}

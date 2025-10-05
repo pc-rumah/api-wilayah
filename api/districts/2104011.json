@@ -1,0 +1,22 @@
+{
+  "id": "2104011",
+  "regency_id": "2104",
+  "name": "KEPULAUAN POSEK",
+  "villages": [
+    {
+      "id": "2104011001",
+      "district_id": "2104011",
+      "name": "POSEK"
+    },
+    {
+      "id": "2104011002",
+      "district_id": "2104011",
+      "name": "SUAK BUAYA"
+    },
+    {
+      "id": "2104011003",
+      "district_id": "2104011",
+      "name": "BUSUNG PANJANG"
+    }
+  ]
+}

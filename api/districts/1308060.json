@@ -1,0 +1,22 @@
+{
+  "id": "1308060",
+  "regency_id": "1308",
+  "name": "GUNUANG OMEH",
+  "villages": [
+    {
+      "id": "1308060001",
+      "district_id": "1308060",
+      "name": "PANDAM GADANG"
+    },
+    {
+      "id": "1308060002",
+      "district_id": "1308060",
+      "name": "TALANG ANAU"
+    },
+    {
+      "id": "1308060003",
+      "district_id": "1308060",
+      "name": "KOTO TINGGI"
+    }
+  ]
+}

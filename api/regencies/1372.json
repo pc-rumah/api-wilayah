@@ -1,0 +1,17 @@
+{
+  "id": "1372",
+  "province_id": "13",
+  "name": "KOTA SOLOK",
+  "districts": [
+    {
+      "id": "1372010",
+      "regency_id": "1372",
+      "name": "LUBUK SIKARAH"
+    },
+    {
+      "id": "1372020",
+      "regency_id": "1372",
+      "name": "TANJUNG HARAPAN"
+    }
+  ]
+}

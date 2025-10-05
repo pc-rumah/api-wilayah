@@ -1,0 +1,17 @@
+{
+  "id": "3471100",
+  "regency_id": "3471",
+  "name": "NGAMPILAN",
+  "villages": [
+    {
+      "id": "3471100001",
+      "district_id": "3471100",
+      "name": "NOTOPRAJAN"
+    },
+    {
+      "id": "3471100002",
+      "district_id": "3471100",
+      "name": "NGAMPILAN"
+    }
+  ]
+}

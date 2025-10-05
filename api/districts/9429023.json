@@ -1,0 +1,17 @@
+{
+  "id": "9429023",
+  "regency_id": "9429",
+  "name": "EMBETPEM",
+  "villages": [
+    {
+      "id": "9429023001",
+      "district_id": "9429023",
+      "name": "WENDAMA"
+    },
+    {
+      "id": "9429023003",
+      "district_id": "9429023",
+      "name": "YENAI"
+    }
+  ]
+}

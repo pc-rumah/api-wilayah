@@ -1,0 +1,22 @@
+{
+  "id": "9108050",
+  "regency_id": "9108",
+  "name": "WAIGEO BARAT",
+  "villages": [
+    {
+      "id": "9108050007",
+      "district_id": "9108050",
+      "name": "BIANCI"
+    },
+    {
+      "id": "9108050008",
+      "district_id": "9108050",
+      "name": "SALYO"
+    },
+    {
+      "id": "9108050010",
+      "district_id": "9108050",
+      "name": "WAISILIP"
+    }
+  ]
+}

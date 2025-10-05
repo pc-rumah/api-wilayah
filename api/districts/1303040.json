@@ -1,0 +1,17 @@
+{
+  "id": "1303040",
+  "regency_id": "1303",
+  "name": "PANTAI CERMIN",
+  "villages": [
+    {
+      "id": "1303040001",
+      "district_id": "1303040",
+      "name": "SURIAN"
+    },
+    {
+      "id": "1303040002",
+      "district_id": "1303040",
+      "name": "LOLO"
+    }
+  ]
+}

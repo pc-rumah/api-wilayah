@@ -1,0 +1,27 @@
+{
+  "id": "1311010",
+  "regency_id": "1311",
+  "name": "SUNGAI RUMBAI",
+  "villages": [
+    {
+      "id": "1311010005",
+      "district_id": "1311010",
+      "name": "SUNGAI RUMBAI"
+    },
+    {
+      "id": "1311010006",
+      "district_id": "1311010",
+      "name": "KURNIA KOTO SALAK"
+    },
+    {
+      "id": "1311010007",
+      "district_id": "1311010",
+      "name": "SUNGAI RUMBAI TIMUR"
+    },
+    {
+      "id": "1311010008",
+      "district_id": "1311010",
+      "name": "KURNIA SELATAN"
+    }
+  ]
+}

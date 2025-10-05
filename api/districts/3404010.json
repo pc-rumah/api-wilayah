@@ -1,0 +1,27 @@
+{
+  "id": "3404010",
+  "regency_id": "3404",
+  "name": "MOYUDAN",
+  "villages": [
+    {
+      "id": "3404010001",
+      "district_id": "3404010",
+      "name": "SUMBERRAHAYU"
+    },
+    {
+      "id": "3404010002",
+      "district_id": "3404010",
+      "name": "SUMBERSARI"
+    },
+    {
+      "id": "3404010003",
+      "district_id": "3404010",
+      "name": "SUMBER AGUNG"
+    },
+    {
+      "id": "3404010004",
+      "district_id": "3404010",
+      "name": "SUMBERARUM"
+    }
+  ]
+}

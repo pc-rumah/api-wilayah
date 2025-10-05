@@ -1,0 +1,17 @@
+{
+  "id": "1309121",
+  "regency_id": "1309",
+  "name": "RAO",
+  "villages": [
+    {
+      "id": "1309121001",
+      "district_id": "1309121",
+      "name": "TARUANG-TARUANG"
+    },
+    {
+      "id": "1309121002",
+      "district_id": "1309121",
+      "name": "PADANG MANTINGGI"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1906011",
+  "regency_id": "1906",
+  "name": "SIMPANG PESAK",
+  "villages": [
+    {
+      "id": "1906011001",
+      "district_id": "1906011",
+      "name": "TANJUNG KELUMPANG"
+    },
+    {
+      "id": "1906011002",
+      "district_id": "1906011",
+      "name": "TANJUNG BATU ITAM"
+    },
+    {
+      "id": "1906011003",
+      "district_id": "1906011",
+      "name": "DUKONG"
+    },
+    {
+      "id": "1906011004",
+      "district_id": "1906011",
+      "name": "SIMPANG PESAK"
+    }
+  ]
+}

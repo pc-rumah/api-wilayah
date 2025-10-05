@@ -1,0 +1,12 @@
+{
+  "id": "1312030",
+  "regency_id": "1312",
+  "name": "KOTO BALINGKA",
+  "villages": [
+    {
+      "id": "1312030001",
+      "district_id": "1312030",
+      "name": "PARIK"
+    }
+  ]
+}

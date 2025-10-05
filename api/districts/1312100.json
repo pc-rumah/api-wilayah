@@ -1,0 +1,12 @@
+{
+  "id": "1312100",
+  "regency_id": "1312",
+  "name": "SASAK RANAH PASISIE",
+  "villages": [
+    {
+      "id": "1312100001",
+      "district_id": "1312100",
+      "name": "SASAK"
+    }
+  ]
+}

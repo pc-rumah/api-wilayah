@@ -1,0 +1,22 @@
+{
+  "id": "9410081",
+  "regency_id": "9410",
+  "name": "SIRIWO",
+  "villages": [
+    {
+      "id": "9410081001",
+      "district_id": "9410081",
+      "name": "IKOTU / BUA"
+    },
+    {
+      "id": "9410081002",
+      "district_id": "9410081",
+      "name": "SIRIWO"
+    },
+    {
+      "id": "9410081003",
+      "district_id": "9410081",
+      "name": "KEPI / TODIA"
+    }
+  ]
+}

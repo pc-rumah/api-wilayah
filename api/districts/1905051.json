@@ -1,0 +1,17 @@
+{
+  "id": "1905051",
+  "regency_id": "1905",
+  "name": "KEPULAUAN PONGOK",
+  "villages": [
+    {
+      "id": "1905051001",
+      "district_id": "1905051",
+      "name": "CELAGEN"
+    },
+    {
+      "id": "1905051002",
+      "district_id": "1905051",
+      "name": "PONGOK"
+    }
+  ]
+}

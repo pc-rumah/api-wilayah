@@ -1,0 +1,22 @@
+{
+  "name": "api-wilayah-gw",
+  "version": "1.0.0",
+  "description": "API Data Wilayah Indonesia",
+  "main": "generate-from-csv.js",
+  "scripts": {
+    "generate": "node generate-from-csv.js",
+    "serve": "npx http-server api -p 8080 --cors"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  },
+  "keywords": [
+    "indonesia",
+    "wilayah",
+    "api",
+    "provinsi",
+    "kabupaten"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9410034",
+  "regency_id": "9410",
+  "name": "WEGE MUKA",
+  "villages": [
+    {
+      "id": "9410034001",
+      "district_id": "9410034",
+      "name": "UWAMANI"
+    },
+    {
+      "id": "9410034002",
+      "district_id": "9410034",
+      "name": "BADAUWO"
+    },
+    {
+      "id": "9410034003",
+      "district_id": "9410034",
+      "name": "TOKO"
+    }
+  ]
+}

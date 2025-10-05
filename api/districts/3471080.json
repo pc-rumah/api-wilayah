@@ -1,0 +1,12 @@
+{
+  "id": "3471080",
+  "regency_id": "3471",
+  "name": "PAKUALAMAN",
+  "villages": [
+    {
+      "id": "3471080001",
+      "district_id": "3471080",
+      "name": "PURWO KINANTI"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1374",
+  "province_id": "13",
+  "name": "KOTA PADANG PANJANG",
+  "districts": [
+    {
+      "id": "1374010",
+      "regency_id": "1374",
+      "name": "PADANG PANJANG BARAT"
+    },
+    {
+      "id": "1374020",
+      "regency_id": "1374",
+      "name": "PADANG PANJANG TIMUR"
+    }
+  ]
+}

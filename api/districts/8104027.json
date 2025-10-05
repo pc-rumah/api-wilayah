@@ -1,0 +1,27 @@
+{
+  "id": "8104027",
+  "regency_id": "8104",
+  "name": "LILIALY",
+  "villages": [
+    {
+      "id": "8104027001",
+      "district_id": "8104027",
+      "name": "WAEPERANG"
+    },
+    {
+      "id": "8104027002",
+      "district_id": "8104027",
+      "name": "SAWA"
+    },
+    {
+      "id": "8104027003",
+      "district_id": "8104027",
+      "name": "WAIMITING"
+    },
+    {
+      "id": "8104027004",
+      "district_id": "8104027",
+      "name": "JIKUMERASA"
+    }
+  ]
+}

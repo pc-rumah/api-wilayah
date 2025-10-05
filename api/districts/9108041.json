@@ -1,0 +1,22 @@
+{
+  "id": "9108041",
+  "regency_id": "9108",
+  "name": "TELUK MAYALIBIT",
+  "villages": [
+    {
+      "id": "9108041001",
+      "district_id": "9108041",
+      "name": "WARSAMDIN"
+    },
+    {
+      "id": "9108041003",
+      "district_id": "9108041",
+      "name": "LOPINTOL"
+    },
+    {
+      "id": "9108041004",
+      "district_id": "9108041",
+      "name": "KALITOKO"
+    }
+  ]
+}

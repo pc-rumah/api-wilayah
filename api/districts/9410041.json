@@ -1,0 +1,17 @@
+{
+  "id": "9410041",
+  "regency_id": "9410",
+  "name": "DUMADAMA",
+  "villages": [
+    {
+      "id": "9410041001",
+      "district_id": "9410041",
+      "name": "DUMA"
+    },
+    {
+      "id": "9410041002",
+      "district_id": "9410041",
+      "name": "DOGOMO"
+    }
+  ]
+}

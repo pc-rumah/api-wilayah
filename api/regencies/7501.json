@@ -1,0 +1,42 @@
+{
+  "id": "7501",
+  "province_id": "75",
+  "name": "KABUPATEN BOALEMO",
+  "districts": [
+    {
+      "id": "7501031",
+      "regency_id": "7501",
+      "name": "MANANGGU"
+    },
+    {
+      "id": "7501040",
+      "regency_id": "7501",
+      "name": "TILAMUTA"
+    },
+    {
+      "id": "7501041",
+      "regency_id": "7501",
+      "name": "DULUPI"
+    },
+    {
+      "id": "7501042",
+      "regency_id": "7501",
+      "name": "BOTUMOITO"
+    },
+    {
+      "id": "7501050",
+      "regency_id": "7501",
+      "name": "PAGUYAMAN"
+    },
+    {
+      "id": "7501051",
+      "regency_id": "7501",
+      "name": "WONOSARI"
+    },
+    {
+      "id": "7501052",
+      "regency_id": "7501",
+      "name": "PAGUYAMAN PANTAI"
+    }
+  ]
+}

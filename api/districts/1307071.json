@@ -1,0 +1,22 @@
+{
+  "id": "1307071",
+  "regency_id": "1307",
+  "name": "CANDUANG",
+  "villages": [
+    {
+      "id": "1307071001",
+      "district_id": "1307071",
+      "name": "BUKIK BATABUAH"
+    },
+    {
+      "id": "1307071002",
+      "district_id": "1307071",
+      "name": "LASI"
+    },
+    {
+      "id": "1307071003",
+      "district_id": "1307071",
+      "name": "CANDUANG KOTO LAWEH"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "9410082",
+  "regency_id": "9410",
+  "name": "MUYE",
+  "villages": [
+    {
+      "id": "9410082001",
+      "district_id": "9410082",
+      "name": "EPOU / EPOBUTU"
+    },
+    {
+      "id": "9410082002",
+      "district_id": "9410082",
+      "name": "MUYETADI"
+    }
+  ]
+}

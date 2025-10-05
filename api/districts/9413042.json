@@ -1,0 +1,27 @@
+{
+  "id": "9413042",
+  "regency_id": "9413",
+  "name": "FIRIWAGE",
+  "villages": [
+    {
+      "id": "9413042001",
+      "district_id": "9413042",
+      "name": "FIRIWAGE"
+    },
+    {
+      "id": "9413042002",
+      "district_id": "9413042",
+      "name": "KARUWAGE"
+    },
+    {
+      "id": "9413042005",
+      "district_id": "9413042",
+      "name": "WALIBURU"
+    },
+    {
+      "id": "9413042006",
+      "district_id": "9413042",
+      "name": "KABUWAGE"
+    }
+  ]
+}

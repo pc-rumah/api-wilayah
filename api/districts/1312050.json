@@ -1,0 +1,12 @@
+{
+  "id": "1312050",
+  "regency_id": "1312",
+  "name": "LEMBAH MALINTANG",
+  "villages": [
+    {
+      "id": "1312050001",
+      "district_id": "1312050",
+      "name": "UJUANG GADIANG"
+    }
+  ]
+}

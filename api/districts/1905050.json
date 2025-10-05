@@ -1,0 +1,17 @@
+{
+  "id": "1905050",
+  "regency_id": "1905",
+  "name": "LEPAR PONGOK",
+  "villages": [
+    {
+      "id": "1905050002",
+      "district_id": "1905050",
+      "name": "TANJUNGLABU"
+    },
+    {
+      "id": "1905050004",
+      "district_id": "1905050",
+      "name": "TANJUNG SANGKAR"
+    }
+  ]
+}

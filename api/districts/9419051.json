@@ -1,0 +1,22 @@
+{
+  "id": "9419051",
+  "regency_id": "9419",
+  "name": "SARMI TIMUR",
+  "villages": [
+    {
+      "id": "9419051001",
+      "district_id": "9419051",
+      "name": "SEWAN"
+    },
+    {
+      "id": "9419051005",
+      "district_id": "9419051",
+      "name": "WASKEY"
+    },
+    {
+      "id": "9419051011",
+      "district_id": "9419051",
+      "name": "SEWAN II"
+    }
+  ]
+}

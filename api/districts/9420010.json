@@ -1,0 +1,27 @@
+{
+  "id": "9420010",
+  "regency_id": "9420",
+  "name": "WEB",
+  "villages": [
+    {
+      "id": "9420010002",
+      "district_id": "9420010",
+      "name": "SEMOGRAFI"
+    },
+    {
+      "id": "9420010004",
+      "district_id": "9420010",
+      "name": "UMUAF"
+    },
+    {
+      "id": "9420010007",
+      "district_id": "9420010",
+      "name": "YAMRAF II"
+    },
+    {
+      "id": "9420010008",
+      "district_id": "9420010",
+      "name": "TATAKRA"
+    }
+  ]
+}

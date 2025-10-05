@@ -1,0 +1,12 @@
+{
+  "id": "1312010",
+  "regency_id": "1312",
+  "name": "SUNGAI BEREMAS",
+  "villages": [
+    {
+      "id": "1312010001",
+      "district_id": "1312010",
+      "name": "AIA BANGIH"
+    }
+  ]
+}

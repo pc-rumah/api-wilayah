@@ -1,0 +1,27 @@
+{
+  "id": "3275030",
+  "regency_id": "3275",
+  "name": "BANTARGEBANG",
+  "villages": [
+    {
+      "id": "3275030001",
+      "district_id": "3275030",
+      "name": "CIKETINGUDIK"
+    },
+    {
+      "id": "3275030002",
+      "district_id": "3275030",
+      "name": "SUMUR BATU"
+    },
+    {
+      "id": "3275030003",
+      "district_id": "3275030",
+      "name": "CIKIWUL"
+    },
+    {
+      "id": "3275030004",
+      "district_id": "3275030",
+      "name": "BANTARGEBANG"
+    }
+  ]
+}

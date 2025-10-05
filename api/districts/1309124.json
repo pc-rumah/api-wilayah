@@ -1,0 +1,22 @@
+{
+  "id": "1309124",
+  "regency_id": "1309",
+  "name": "RAO SELATAN",
+  "villages": [
+    {
+      "id": "1309124001",
+      "district_id": "1309124",
+      "name": "LANSEK KADOK"
+    },
+    {
+      "id": "1309124002",
+      "district_id": "1309124",
+      "name": "TANJUNG BETUNG"
+    },
+    {
+      "id": "1309124003",
+      "district_id": "1309124",
+      "name": "LUBUAK LAYANG"
+    }
+  ]
+}

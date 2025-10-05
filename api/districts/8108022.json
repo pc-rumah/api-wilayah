@@ -1,0 +1,17 @@
+{
+  "id": "8108022",
+  "regency_id": "8108",
+  "name": "KEPULAUAN ROMANG",
+  "villages": [
+    {
+      "id": "8108022002",
+      "district_id": "8108022",
+      "name": "HILA"
+    },
+    {
+      "id": "8108022003",
+      "district_id": "8108022",
+      "name": "SOLATH"
+    }
+  ]
+}

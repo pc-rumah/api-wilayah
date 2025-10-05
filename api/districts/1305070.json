@@ -1,0 +1,17 @@
+{
+  "id": "1305070",
+  "regency_id": "1305",
+  "name": "PADANG GANTING",
+  "villages": [
+    {
+      "id": "1305070001",
+      "district_id": "1305070",
+      "name": "PADANG GANTING"
+    },
+    {
+      "id": "1305070002",
+      "district_id": "1305070",
+      "name": "ATAR"
+    }
+  ]
+}

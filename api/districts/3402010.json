@@ -1,0 +1,17 @@
+{
+  "id": "3402010",
+  "regency_id": "3402",
+  "name": "SRANDAKAN",
+  "villages": [
+    {
+      "id": "3402010001",
+      "district_id": "3402010",
+      "name": "PONCOSARI"
+    },
+    {
+      "id": "3402010002",
+      "district_id": "3402010",
+      "name": "TRIMURTI"
+    }
+  ]
+}

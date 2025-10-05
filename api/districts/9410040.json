@@ -1,0 +1,17 @@
+{
+  "id": "9410040",
+  "regency_id": "9410",
+  "name": "BIBIDA",
+  "villages": [
+    {
+      "id": "9410040003",
+      "district_id": "9410040",
+      "name": "UGIDIMI"
+    },
+    {
+      "id": "9410040004",
+      "district_id": "9410040",
+      "name": "BIBIDA"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1306071",
+  "regency_id": "1306",
+  "name": "V KOTO TIMUR",
+  "villages": [
+    {
+      "id": "1306071001",
+      "district_id": "1306071",
+      "name": "LIMAU PURUIK"
+    },
+    {
+      "id": "1306071002",
+      "district_id": "1306071",
+      "name": "KUDU GANTIANG"
+    },
+    {
+      "id": "1306071003",
+      "district_id": "1306071",
+      "name": "GUNUNG PADANG ALAI"
+    },
+    {
+      "id": "1306071004",
+      "district_id": "1306071",
+      "name": "KUDU GANTIANG BARAT"
+    }
+  ]
+}

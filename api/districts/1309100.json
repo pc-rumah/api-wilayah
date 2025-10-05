@@ -1,0 +1,17 @@
+{
+  "id": "1309100",
+  "regency_id": "1309",
+  "name": "DUA KOTO",
+  "villages": [
+    {
+      "id": "1309100001",
+      "district_id": "1309100",
+      "name": "CUBADAK"
+    },
+    {
+      "id": "1309100002",
+      "district_id": "1309100",
+      "name": "SIMPANG TONANG"
+    }
+  ]
+}

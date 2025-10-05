@@ -1,0 +1,22 @@
+{
+  "id": "1309110",
+  "regency_id": "1309",
+  "name": "PANTI",
+  "villages": [
+    {
+      "id": "1309110001",
+      "district_id": "1309110",
+      "name": "PANTI"
+    },
+    {
+      "id": "1309110002",
+      "district_id": "1309110",
+      "name": "PANTI SELATAN"
+    },
+    {
+      "id": "1309110003",
+      "district_id": "1309110",
+      "name": "PANTI TIMUR"
+    }
+  ]
+}

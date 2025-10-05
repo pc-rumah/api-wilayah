@@ -1,0 +1,32 @@
+{
+  "id": "1671061",
+  "regency_id": "1671",
+  "name": "KALIDONI",
+  "villages": [
+    {
+      "id": "1671061001",
+      "district_id": "1671061",
+      "name": "SEI LAIS"
+    },
+    {
+      "id": "1671061002",
+      "district_id": "1671061",
+      "name": "SEI SELINCAH"
+    },
+    {
+      "id": "1671061003",
+      "district_id": "1671061",
+      "name": "SEI SELAYUR"
+    },
+    {
+      "id": "1671061004",
+      "district_id": "1671061",
+      "name": "KALIDONI"
+    },
+    {
+      "id": "1671061005",
+      "district_id": "1671061",
+      "name": "BUKIT SANGKAL"
+    }
+  ]
+}

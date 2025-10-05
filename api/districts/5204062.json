@@ -1,0 +1,17 @@
+{
+  "id": "5204062",
+  "regency_id": "5204",
+  "name": "RHEE",
+  "villages": [
+    {
+      "id": "5204062001",
+      "district_id": "5204062",
+      "name": "SAMPE"
+    },
+    {
+      "id": "5204062004",
+      "district_id": "5204062",
+      "name": "RHEE LOKA"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5303161",
+  "regency_id": "5303",
+  "name": "FATULEU TENGAH",
+  "villages": [
+    {
+      "id": "5303161001",
+      "district_id": "5303161",
+      "name": "NUNSAEN"
+    },
+    {
+      "id": "5303161002",
+      "district_id": "5303161",
+      "name": "OELBITENO"
+    },
+    {
+      "id": "5303161003",
+      "district_id": "5303161",
+      "name": "PASSI"
+    },
+    {
+      "id": "5303161004",
+      "district_id": "5303161",
+      "name": "NONBAUN"
+    }
+  ]
+}

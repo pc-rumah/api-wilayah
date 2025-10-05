@@ -1,0 +1,22 @@
+{
+  "id": "1375",
+  "province_id": "13",
+  "name": "KOTA BUKITTINGGI",
+  "districts": [
+    {
+      "id": "1375010",
+      "regency_id": "1375",
+      "name": "GUGUK PANJANG"
+    },
+    {
+      "id": "1375020",
+      "regency_id": "1375",
+      "name": "MANDIANGIN KOTO SELAYAN"
+    },
+    {
+      "id": "1375030",
+      "regency_id": "1375",
+      "name": "AUR BIRUGO TIGO BALEH"
+    }
+  ]
+}

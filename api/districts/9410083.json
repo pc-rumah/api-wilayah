@@ -1,0 +1,17 @@
+{
+  "id": "9410083",
+  "regency_id": "9410",
+  "name": "NAKAMA",
+  "villages": [
+    {
+      "id": "9410083001",
+      "district_id": "9410083",
+      "name": "OKAITADI"
+    },
+    {
+      "id": "9410083002",
+      "district_id": "9410083",
+      "name": "KITO"
+    }
+  ]
+}

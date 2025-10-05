@@ -1,0 +1,27 @@
+{
+  "id": "1306052",
+  "regency_id": "1306",
+  "name": "2 X 11 KAYU TANAM",
+  "villages": [
+    {
+      "id": "1306052001",
+      "district_id": "1306052",
+      "name": "KAPALO HILALANG"
+    },
+    {
+      "id": "1306052002",
+      "district_id": "1306052",
+      "name": "KAYU TANAM"
+    },
+    {
+      "id": "1306052003",
+      "district_id": "1306052",
+      "name": "GUGUAK"
+    },
+    {
+      "id": "1306052004",
+      "district_id": "1306052",
+      "name": "ANDURING"
+    }
+  ]
+}

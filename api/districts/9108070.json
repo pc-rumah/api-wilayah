@@ -1,0 +1,22 @@
+{
+  "id": "9108070",
+  "regency_id": "9108",
+  "name": "KEPULAUAN AYAU",
+  "villages": [
+    {
+      "id": "9108070003",
+      "district_id": "9108070",
+      "name": "MEOSBEKWAN"
+    },
+    {
+      "id": "9108070005",
+      "district_id": "9108070",
+      "name": "RENI"
+    },
+    {
+      "id": "9108070008",
+      "district_id": "9108070",
+      "name": "ABIDON"
+    }
+  ]
+}
