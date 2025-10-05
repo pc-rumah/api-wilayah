@@ -13,7 +13,7 @@ API data wilayah Indonesia (Provinsi, Kabupaten/Kota, Kecamatan, dan Kelurahan/D
 
 **Development**: `http://localhost:8080/`
 
-**Production**: `https://yourusername.github.io/api-wilayah-indonesia/api/`
+**Production**: `https://pc-rumah.github.io/api-wilayah/api/`
 
 ## 📖 API Endpoints
 
@@ -148,14 +148,12 @@ GET /api/villages.json
 
 ```javascript
 // Get all provinces
-fetch("https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json")
+fetch("https://pc-rumah.github.io/api-wilayah/api/provinces.json")
   .then((response) => response.json())
   .then((data) => console.log(data));
 
 // Get specific province with regencies
-fetch(
-  "https://yourusername.github.io/api-wilayah-indonesia/api/provinces/11.json"
-)
+fetch("https://pc-rumah.github.io/api-wilayah/api/provinces/11.json")
   .then((response) => response.json())
   .then((data) => console.log(data));
 ```
@@ -164,7 +162,7 @@ fetch(
 
 ```php
 <?php
-$url = "https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json";
+$url = "https://pc-rumah.github.io/api-wilayah/api/provinces.json";
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
@@ -180,7 +178,7 @@ print_r($data);
 ```python
 import requests
 
-response = requests.get('https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json')
+response = requests.get('https://pc-rumah.github.io/api-wilayah/api/provinces.json')
 data = response.json()
 print(data)
 ```
@@ -189,7 +187,7 @@ print(data)
 
 ```javascript
 $.getJSON(
-  "https://yourusername.github.io/api-wilayah-indonesia/api/provinces.json",
+  "https://pc-rumah.github.io/api-wilayah/api/provinces.json",
   function (data) {
     console.log(data);
   }
